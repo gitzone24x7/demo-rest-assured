@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Omnix Smoke Test Results" verbose="1" configfailurepolicy="continue">
+    <test name="Omnix Smoke Test">
+        <classes>
+            <class name="com.zone24x7.dev.omnixApi.PostalCodeCountryDetailsTest"/>
+        </classes>
+    </test>
+</suite>
